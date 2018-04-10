@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application123</string>
+    <string name="year_prompt">년</string>
+    <string name="month_prompt">월</string>
+    <string name="day_prompt">일</string>
+</resources>
